@@ -31,7 +31,7 @@ int main()
 
    if (nr_tab>0)
    {
-      wyniki << x[nr_tab] << endl;//2. ostatnia
+      wyniki << x[nr_tab];//2. ostatnia
    }
 
 
